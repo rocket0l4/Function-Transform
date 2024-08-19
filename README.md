@@ -6,5 +6,5 @@
 - Square Transform
 - Square root Transform
 
-#Shoew the difference between, the before applying the transfrom and After applying the transform.
+# Showing difference with help of the Before applying the transfrom and After applying the transform.
 -  **Using the Q-Q Plot.**
