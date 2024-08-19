@@ -6,5 +6,5 @@
 - Square Transform
 - Square root Transform
 
-- #Shoew the difference between, the before applying the transfrom and After applying the transform.
+#Shoew the difference between, the before applying the transfrom and After applying the transform.
 -  **Using of the Q-Q Plto.**
